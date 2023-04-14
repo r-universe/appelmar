@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "gdalcubes"]
 	path = gdalcubes
-	url = https://github.com/appelmar/gdalcubes_r
+	url = https://github.com/appelmar/gdalcubes
 	shallow = true
 	registered = true
